@@ -1,0 +1,36 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@vkontakte/icons": "^1.8.0",
+    "@vkontakte/vkui": "^2.23.6",
+    "@vkontakte/vkui-connect": "^1.5.2",
+    "@vkontakte/vkui-connect-promise": "^0.1.19",
+    "cross-env": "^5.2.0",
+    "fetch": "^1.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "cross-env PORT=10888 react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
