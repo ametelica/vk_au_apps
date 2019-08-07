@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/vk_au_apps/build/static/js/main.e17e2729.chunk.js",
-    "main.js.map": "/vk_au_apps/build/static/js/main.e17e2729.chunk.js.map",
-    "runtime~main.js": "/vk_au_apps/build/static/js/runtime~main.9737ce4a.js",
-    "runtime~main.js.map": "/vk_au_apps/build/static/js/runtime~main.9737ce4a.js.map",
-    "static/css/2.618af2ae.chunk.css": "/vk_au_apps/build/static/css/2.618af2ae.chunk.css",
-    "static/js/2.d51dd72f.chunk.js": "/vk_au_apps/build/static/js/2.d51dd72f.chunk.js",
-    "static/js/2.d51dd72f.chunk.js.map": "/vk_au_apps/build/static/js/2.d51dd72f.chunk.js.map",
-    "index.html": "/vk_au_apps/build/index.html",
-    "precache-manifest.85a0027b545ec56be5516bd316518d31.js": "/vk_au_apps/build/precache-manifest.85a0027b545ec56be5516bd316518d31.js",
-    "service-worker.js": "/vk_au_apps/build/service-worker.js",
-    "static/css/2.618af2ae.chunk.css.map": "/vk_au_apps/build/static/css/2.618af2ae.chunk.css.map"
+    "main.js": "/vk_au_apps/static/js/main.e17e2729.chunk.js",
+    "main.js.map": "/vk_au_apps/static/js/main.e17e2729.chunk.js.map",
+    "runtime~main.js": "/vk_au_apps/static/js/runtime~main.abb95ca0.js",
+    "runtime~main.js.map": "/vk_au_apps/static/js/runtime~main.abb95ca0.js.map",
+    "static/css/2.618af2ae.chunk.css": "/vk_au_apps/static/css/2.618af2ae.chunk.css",
+    "static/js/2.d51dd72f.chunk.js": "/vk_au_apps/static/js/2.d51dd72f.chunk.js",
+    "static/js/2.d51dd72f.chunk.js.map": "/vk_au_apps/static/js/2.d51dd72f.chunk.js.map",
+    "index.html": "/vk_au_apps/index.html",
+    "precache-manifest.5f8e346d0b0ed6e781c3077d28b82815.js": "/vk_au_apps/precache-manifest.5f8e346d0b0ed6e781c3077d28b82815.js",
+    "service-worker.js": "/vk_au_apps/service-worker.js",
+    "static/css/2.618af2ae.chunk.css.map": "/vk_au_apps/static/css/2.618af2ae.chunk.css.map"
   }
 }
