@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ametelica.github.io/vk_au_apps/",
+  "homepage": "https://ametelica.github.io/vk_au_apps",
   "dependencies": {
     "@vkontakte/icons": "^1.8.0",
     "@vkontakte/vkui": "^2.23.6",
