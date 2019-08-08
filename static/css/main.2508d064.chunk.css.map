@@ -1,0 +1,1 @@
+{"version":3,"sources":["common.css"],"names":[],"mappings":"AAAA,SACC,UAAW,CACX,WAAY,CACZ,UACD","file":"main.2508d064.chunk.css","sourcesContent":["div.item {\r\n\twidth: 50px;\r\n\theight: 50px;\r\n\tfloat: left;\r\n}"]}
